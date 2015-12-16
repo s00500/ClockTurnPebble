@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "s00500",
+    "longName": "ClockTurn",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "ClockTurn",
+    "uuid": "22e832c8-3f4f-4fdd-a078-5576d0f7e0ef",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
